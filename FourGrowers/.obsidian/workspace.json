@@ -8,31 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e7ce2cd45806fce",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "9f51d1e0f27879fe",
+            "id": "7e0e08e015cad236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preset Overview.md",
+                "file": "Snowflake Connectivity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preset Overview"
+              "title": "Snowflake Connectivity"
+            }
+          },
+          {
+            "id": "6fc8466ee0557ab4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hot Topics/Virtual Simulation Pipeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtual Simulation Pipeline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,9 +197,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "9f51d1e0f27879fe",
+  "active": "7e0e08e015cad236",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Preset Overview.md"
+    "Snowflake.md",
+    "Snowflake Connectivity.md",
+    "Hot Topics/Virtual Simulation Pipeline.md",
+    "Hot Topics/V&V Framework.md",
+    "Run Dev Pipeline.md",
+    "hot.md",
+    "Hot Topics/Preset Work Overview.md",
+    "Preset.md",
+    "Hot Topics",
+    "Welcome.md"
   ]
 }

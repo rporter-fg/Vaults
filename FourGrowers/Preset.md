@@ -1,3 +1,4 @@
+[[tools]]
 [[Preset]] is a third party product that we integrate with. Based on [[Apache Superset]].
 [[Snowflake]] as the backend database.
 
@@ -22,4 +23,5 @@ Goals:
 * Infra changes as required
 * Better dashboards and more searchable dashboards
 * Explore crosslinking in Preset
-* 
+
+Current priority: Get enough Snowflake under my belt so as to add temperature to the dataset, but with the caveat that *future metrics should be easy to add*. 
