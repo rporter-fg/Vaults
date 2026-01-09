@@ -48,3 +48,12 @@ The biggest thing I see here is picking out one specific feature of the robot, l
 Starting point is run-per-scene, with either a real-world or generated scene.
 
 Suggested in the doc: use [[Issac Sim]] https://developer.nvidia.com/isaac/sim, which does require [[ROS2]].
+
+## Goal Setting
+* Assess Current Simulation/Testing/Status
+	* I need to understand what we can actually do
+	* What we can run locally
+	* What simulation options we have already (sounds like there are some)
+* Migrate existing simulation/testing (if any) frameworks into CI
+* Identify refinements to the process as an output of the migration
+* Prioritize and start working on those improvements
